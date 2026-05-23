@@ -1,0 +1,4 @@
+﻿delivery_status,total_orders,avg_review_score,avg_delivery_days,avg_delay_days,pct_of_orders
+On Time,89134,4.29,10,-13,91.89
+Slightly Late (1-7 days),4987,3.06,24,2,5.14
+Very Late (7+ days),2878,1.7,44,19,2.97
