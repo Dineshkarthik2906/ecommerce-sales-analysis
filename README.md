@@ -23,20 +23,6 @@ An end-to-end data analytics project on the **Olist Brazilian E-Commerce dataset
 
 ---
 
-## 📂 Project Structure
-
-```
-ecommerce-sales-analysis/
-│
-├── olist_analysis_mssql.sql       # 10 analytical SQL queries + schema
-├── Olist_Ecommerce_Analysis.xlsx  # Excel dashboard with 6 charts
-├── Olist_Dashboard.pbix           # Power BI 3-page interactive dashboard
-├── screenshots/                   # Query results and dashboard screenshots
-│   ├── sql/
-│   ├── excel/
-│   └── powerbi/
-└── README.md
-```
 
 ---
 
